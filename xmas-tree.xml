@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/kennetho/Documents/BubbleLed/Untitled/xmas-tree/xmas-tree.kicad_sch</source>
+    <date>Friday, October 28, 2022 at 08:16:25 PM</date>
+    <tool>Eeschema (6.0.1-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>XMas Blinkenlights</title>
+        <company>Kenneth Ostby</company>
+        <rev/>
+        <date>2022-10-21</date>
+        <source>xmas-tree.kicad_sch</source>
+        <comment number="1" value="kenneth.ostby@gmail.com"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BT1">
+      <value>Battery_Cell</value>
+      <footprint>KiCad:101</footprint>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67818144-0f54-4393-a989-4de318e6f44a</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>0.1uf</value>
+      <footprint>Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3871c7f7-59dd-41ed-b610-089a654b78c9</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10nf</value>
+      <footprint>Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3fd266f-2205-4304-b250-0a7b5513e57e</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>22uf</value>
+      <footprint>Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b322f59a-181e-4c1f-b178-c429a6fc4c9c</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm_Clear</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd1cff81-9d8a-4511-96d6-4ddb79484001</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm_Clear</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3c9529e-be6d-434c-8c6a-20936d2acf17</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm_Clear</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3f37707-708f-4730-840c-af10daf0eeed</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm_Clear</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>964e9395-8fe1-432b-a91d-dc3d552e3e54</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm_Clear</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>931f560b-b7e4-4812-93db-e50c077f321a</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm_Clear</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22ce0376-479e-4075-875a-1a02a1b95657</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm_Clear</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4dc41c15-5c3f-42cd-bcdd-6db7527f69e6</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm_Clear</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>047cb0ca-9285-472c-8fad-278d8abcd04b</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_2010_5025Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>adabd5de-fc4a-417d-a1c8-2bbd07fdcae3</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_2010_5025Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2cb24424-ef15-46ea-a53f-c332059a0409</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_2010_5025Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3993c009-2498-46bd-a3f0-cf0d59d3f850</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_2010_5025Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cff1fb99-003d-4be6-b312-75886921796e</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_2010_5025Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8251b44-bff7-440a-ba89-55eabc2e21f9</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_2010_5025Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1072d4f3-8a89-4e33-a821-7fb9b181a953</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_2010_5025Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44900aef-964f-46ab-bb2c-73b502ffeeed</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_2010_5025Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45ca8d2b-1852-4185-9f1d-6f90169893f8</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0c05746-4db5-46c4-a2c6-7ac7750fd97a</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>13K</value>
+      <footprint>Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51c415d5-32ed-4d26-b2fe-e2c8657ba45e</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>EVP-BT4A4A000</value>
+      <footprint>Switch:EVPBT4A4A000</footprint>
+      <datasheet>https://www.mouser.in/datasheet/2/315/Panasonic_Switch_EVQ_P0_2c_EVQ_Q2_2c_EVQ_6Q2_2c_EV-2064286.pdf</datasheet>
+      <fields>
+        <field name="Description">Tactile Switches Op Force 1.3 N STR w/o ground term</field>
+        <field name="Height">4.5</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">EVP-BT4A4A000</field>
+        <field name="Mouser Part Number">769-EVP-BT4A4A000</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Panasonic/EVP-BT4A4A000?qs=CiayqK2gdcJLoreobld9qQ%3D%3D</field>
+      </fields>
+      <libsource lib="EVP-BT4A4A000" part="EVP-BT4A4A000" description="Tactile Switches Op Force 1.3 N STR w/o ground term"/>
+      <property name="Description" value="Tactile Switches Op Force 1.3 N STR w/o ground term"/>
+      <property name="Height" value="4.5"/>
+      <property name="Mouser Part Number" value="769-EVP-BT4A4A000"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Panasonic/EVP-BT4A4A000?qs=CiayqK2gdcJLoreobld9qQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="EVP-BT4A4A000"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b746016f-95c5-4b64-bbc8-f91857dc0514</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>SN74HCS594</value>
+      <footprint>Package_SO:SOIC-16_3.9x9.9mm_P1.27mm</footprint>
+      <libsource lib="74xGxx" part="SN74HCS594" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7c304b2-6ed5-4855-a8e5-71a0fe62b088</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>LM555xM</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm555.pdf</datasheet>
+      <libsource lib="Timer" part="LM555xM" description="Timer, 555 compatible, SOIC-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51dcf6e2-b34d-4bc4-b63e-0653a7119840</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>74AHC1G32</value>
+      <footprint>Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering</footprint>
+      <datasheet>http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</datasheet>
+      <libsource lib="74xGxx" part="74AHC1G32" description="Single OR Gate, Low-Voltage CMOS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="xmas-tree.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47d4a20e-86ae-4106-9663-be6c7345e8d3</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="74xGxx" part="74AHC1G32">
+      <description>Single OR Gate, Low-Voltage CMOS</description>
+      <docs>http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</docs>
+      <footprints>
+        <fp>SOT*</fp>
+        <fp>SG-*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74AHC1G32</field>
+        <field name="Datasheet">http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="" type="output"/>
+        <pin num="5" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xGxx" part="SN74HCS594">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SN74HCS594</field>
+      </fields>
+      <pins>
+        <pin num="1" name="qB" type="output"/>
+        <pin num="2" name="qC" type="output"/>
+        <pin num="3" name="qD" type="output"/>
+        <pin num="4" name="qE" type="output"/>
+        <pin num="5" name="qF" type="output"/>
+        <pin num="6" name="qG" type="output"/>
+        <pin num="7" name="qH" type="output"/>
+        <pin num="8" name="GND" type="unspecified"/>
+        <pin num="9" name="qH_cas" type="output"/>
+        <pin num="10" name="nSRCLR" type="input"/>
+        <pin num="11" name="SRCLK" type="input"/>
+        <pin num="12" name="RCLK" type="input"/>
+        <pin num="13" name="nRCLR" type="input"/>
+        <pin num="14" name="SER" type="input"/>
+        <pin num="15" name="qA" type="output"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Battery_Cell">
+      <description>Single-cell battery</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">Battery_Cell</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EVP-BT4A4A000" part="EVP-BT4A4A000">
+      <description>Tactile Switches Op Force 1.3 N STR w/o ground term</description>
+      <docs>https://www.mouser.in/datasheet/2/315/Panasonic_Switch_EVQ_P0_2c_EVQ_Q2_2c_EVQ_6Q2_2c_EV-2064286.pdf</docs>
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">EVP-BT4A4A000</field>
+        <field name="Footprint">EVPBT4A4A000</field>
+        <field name="Datasheet">https://www.mouser.in/datasheet/2/315/Panasonic_Switch_EVQ_P0_2c_EVQ_Q2_2c_EVQ_6Q2_2c_EV-2064286.pdf</field>
+        <field name="Description">Tactile Switches Op Force 1.3 N STR w/o ground term</field>
+        <field name="Height">4.5</field>
+        <field name="Mouser Part Number">769-EVP-BT4A4A000</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Panasonic/EVP-BT4A4A000?qs=CiayqK2gdcJLoreobld9qQ%3D%3D</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">EVP-BT4A4A000</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="COM_1" type="passive"/>
+        <pin num="A2" name="COM_2" type="passive"/>
+        <pin num="B1" name="NO_1" type="passive"/>
+        <pin num="B2" name="NO_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Timer" part="LM555xM">
+      <description>Timer, 555 compatible, SOIC-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm555.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM555xM</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm555.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="TR" type="input"/>
+        <pin num="3" name="Q" type="output"/>
+        <pin num="4" name="R" type="input"/>
+        <pin num="5" name="CV" type="input"/>
+        <pin num="6" name="THR" type="input"/>
+        <pin num="7" name="DIS" type="input"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xGxx">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//74xGxx.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="EVP-BT4A4A000">
+      <uri>/Users/kennetho/Kicad_models/LIB_EVP-BT4A4A000/EVP-BT4A4A000/KiCad/EVP-BT4A4A000.lib</uri>
+    </library>
+    <library logical="Timer">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Timer.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="CLK">
+      <node ref="U1" pin="11" pinfunction="SRCLK" pintype="input"/>
+      <node ref="U1" pin="12" pinfunction="RCLK" pintype="input"/>
+      <node ref="U2" pin="3" pinfunction="Q" pintype="output"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="BT1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U2" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="3" name="LED_A">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="qA" pintype="output"/>
+    </net>
+    <net code="4" name="LED_B">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="qB" pintype="output"/>
+    </net>
+    <net code="5" name="LED_C">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="qC" pintype="output"/>
+    </net>
+    <net code="6" name="LED_D">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="qD" pintype="output"/>
+    </net>
+    <net code="7" name="LED_E">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="qE" pintype="output"/>
+    </net>
+    <net code="8" name="LED_F">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="qF" pintype="output"/>
+    </net>
+    <net code="9" name="LED_G">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="qG" pintype="output"/>
+    </net>
+    <net code="10" name="LED_H">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="qH" pintype="output"/>
+    </net>
+    <net code="11" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="CV" pintype="input"/>
+    </net>
+    <net code="12" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(U1-Pad9)">
+      <node ref="U1" pin="9" pinfunction="qH_cas" pintype="output"/>
+      <node ref="U3" pin="1" pintype="input"/>
+    </net>
+    <net code="21" name="Net-(U1-Pad14)">
+      <node ref="U1" pin="14" pinfunction="SER" pintype="input"/>
+      <node ref="U3" pin="4" pintype="output"/>
+    </net>
+    <net code="22" name="Net-(U2-Pad2)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="TR" pintype="input"/>
+      <node ref="U2" pin="6" pinfunction="THR" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(U2-Pad7)">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="DIS" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(U3-Pad2)">
+      <node ref="S1" pin="B2" pinfunction="NO_2" pintype="passive"/>
+      <node ref="U3" pin="2" pintype="input"/>
+    </net>
+    <net code="25" name="VCC">
+      <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="S1" pin="A1" pinfunction="COM_1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="nSRCLR" pintype="input"/>
+      <node ref="U1" pin="13" pinfunction="nRCLR" pintype="input"/>
+      <node ref="U1" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="R" pintype="input"/>
+      <node ref="U2" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="5" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="26" name="unconnected-(S1-PadA2)">
+      <node ref="S1" pin="A2" pinfunction="COM_2" pintype="passive"/>
+    </net>
+    <net code="27" name="unconnected-(S1-PadB1)">
+      <node ref="S1" pin="B1" pinfunction="NO_1" pintype="passive"/>
+    </net>
+  </nets>
+</export>
